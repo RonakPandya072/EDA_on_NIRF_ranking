@@ -1,0 +1,101 @@
+,Institute_id,Name,No. of MaleStudents,No. of Female Students,Total Students,Within State (Including male & female),Outside State(Including male & female),Outside Country (Including male & female),Economically Backward (Including male & female),Socially Challenged (SC+ST+OBC Including male & female),No. of students receiving full tuition fee reimbursement from the State and Central Government,No. of students receiving full tuition fee reimbursement from Institution Funds,No. of students receiving full tuition fee reimbursement from the Private Bodies,No. of students who are not receiving full tuition fee reimbursement
+0,IR-E-C-9462,Indian Institute of Technology Madras,1774,260,2034,335,1682,17,142,1090,52,939,110,131
+1,IR-E-U-0355,Indian Institute of Technology Delhi,2680,287,2967,130,2836,1,351,1422,655,0,55,1063
+2,IR-E-C-11015,Indian Institute of Technology Bombay,2775,250,3025,741,2284,0,1274,1601,749,0,57,2069
+3,IR-E-U-0577,Indian Institute of Technology Kanpur,2257,172,2429,250,2173,6,223,1125,0,1146,0,202
+4,IR-E-C-1331,Indian Institute of Technology Kharagpur,3350,254,3604,828,2774,2,423,1771,6,1702,0,486
+5,IR-E-U-0186,Indian Institute of Technology Roorkee,3138,251,3389,72,3317,0,467,1661,986,181,0,961
+6,IR-E-U-0564,Indian Institute of Technology Guwahati,2421,209,2630,109,2520,1,181,1328,0,829,0,680
+7,IR-E-C-36969,Indian Institute of Technology Hyderabad,890,153,1043,413,630,0,71,528,0,372,0,227
+8,IR-E-U-0149,National Institute of Technology Tiruchirappalli,6352,4453,10805,10191,121,493,473,9023,4036,0,436,5024
+9,IR-E-U-0584,Indian Institute of Technology Indore,2668,692,3360,1428,1494,438,218,1604,0,1064,34,724
+10,IR-E-C-16560,Indian Institute of Technology (BHU) Varanasi,2843,190,3033,762,2271,0,559,1562,853,1189,40,39
+11,IR-E-C-42242,Indian Institute of Technology (Indian School of Mines),629,246,875,802,73,0,47,232,232,36,11,0
+12,IR-E-C-1269,National Institute of Technology Karnataka,682,56,738,119,619,0,51,372,30,320,0,73
+13,IR-E-U-0487,Anna University,3627,360,3987,3022,926,39,917,1403,57,288,0,1975
+14,IR-E-U-0747,Vellore Institute of Technology,2972,197,3169,306,2863,0,127,1557,19,1184,0,481
+15,IR-E-C-19569,National Institute of Technology Rourkela,2230,474,2704,1221,1387,96,284,1315,613,0,0,986
+16,IR-E-I-1075,Jadavpur University,724,67,791,32,759,0,102,407,45,208,0,256
+17,IR-E-C-33584,Institute of Chemical Technology,17554,3382,20936,2244,17912,780,1257,3941,0,218,0,4980
+18,IR-E-C-41351,National Institute of Technology Warangal,1459,152,1611,926,679,6,643,706,590,0,27,732
+19,IR-E-U-0205,Amrita School of Engineering,495,41,536,10,526,0,12,271,177,106,0,0
+20,IR-E-U-0476,Indian Institute of Engineering Science and Technology,2600,615,3215,1382,1765,68,383,1403,1105,0,0,681
+21,IR-E-U-0467,Indian Institute of Technology Bhubaneswar,747,36,783,127,656,0,119,401,0,290,1,229
+22,IR-E-U-0522,National Institute of Technology Calicut,311,252,563,262,294,7,0,34,0,2,0,32
+23,IR-E-C-18010,Indian Institute of Technology Gandhinagar,580,60,640,88,552,0,118,325,55,159,28,201
+24,IR-E-C-36926,Indian Institute of Technology Ropar,7783,1087,8870,1264,7537,69,594,148,1,0,1,740
+25,IR-E-C-16490,Indian Institute of Technology Patna,2591,945,3536,1626,1438,472,201,1563,1633,0,0,131
+26,IR-E-C-16590,Visvesvaraya National Institute of Technology,1295,208,1503,481,990,32,947,331,558,79,87,554
+27,IR-E-C-16614,Jamia Millia Islamia,2806,916,3722,1766,1919,37,945,1881,1952,112,8,754
+28,IR-E-U-0497,Thapar Institute of Engineering & Technology,575,40,615,45,570,0,120,311,154,133,0,144
+29,IR-E-U-0078,Birla Institute of Technology & Science,382,82,464,55,409,0,18,228,0,150,0,96
+30,IR-E-U-0172,Indian Institute of Technology Mandi,2171,845,3016,1408,1460,148,214,1168,449,719,0,214
+31,IR-E-C-1345,Amity University Noida,3022,2902,5924,3139,2785,0,1403,1896,0,131,0,3168
+32,IR-E-U-0378,Indian Institute of Space Science and Technology,2222,468,2690,1353,1267,70,193,822,312,15,23,665
+33,IR-E-U-0439,Siksha `O` Anusandhan,6244,996,7240,3998,2896,346,846,2913,450,526,50,2733
+34,IR-E-U-0474,Malaviya National Institute of Technology,6110,1868,7978,2793,4989,196,553,1283,0,15,0,1821
+35,IR-E-U-0055,Delhi Technological University,16221,4094,20315,4004,15910,401,6434,5408,3,362,0,11477
+36,IR-E-U-0620,Shanmugha Arts Science Technology & Research Academy,2310,1471,3781,3390,350,41,2411,1252,266,413,204,2780
+37,IR-E-U-0092,Birla Institute of Technology,5008,3090,8098,5120,2965,13,240,640,164,261,0,455
+38,IR-E-U-0267,Aligarh Muslim University,455,78,533,103,339,91,44,33,3,4,0,70
+39,IR-E-U-0255,National Institute of Technology Kurukshetra,1520,281,1801,1391,378,32,412,312,614,73,37,0
+40,IR-E-U-0460,S. R. M. Institute of Science and Technology,2813,457,3270,1500,1587,183,304,1620,834,1,39,1050
+41,IR-E-C-6528,Kalinga Institute of Industrial Technology,3058,508,3566,1597,1564,405,407,725,1132,0,0,0
+42,IR-E-C-18886,International Institute of Information Technology Hyderabad,6539,1526,8065,1478,6402,185,662,0,5,637,0,20
+43,IR-E-U-0169,Sri Sivasubramaniya Nadar College of Engineering,3191,1867,5058,4848,210,0,2499,2559,1311,8,137,3602
+44,IR-E-U-0098,Manipal Institute of Technology,2739,2079,4818,4579,131,108,635,3260,3184,0,38,673
+45,IR-E-C-43708,National Institute of Technology Silchar,2369,562,2931,1339,1474,118,234,1441,0,881,0,794
+46,IR-E-C-26905,National Institute of Technology Durgapur,8291,2152,10443,2848,7556,39,1560,5559,2184,942,129,3864
+47,IR-E-I-1480,Motilal Nehru National Institute of Technology,9144,4731,13875,2158,11183,534,2812,3125,1565,105,46,4221
+48,IR-E-C-18817,PSG College of Technology,2252,1081,3333,3018,69,246,135,1634,1363,98,148,160
+49,IR-E-I-1441,College of Engineering Pune,570,67,637,157,480,0,205,326,0,234,0,297
+50,IR-E-U-0357,Sathyabama Institute of Science and Technology,2134,266,2400,1200,1168,32,283,1252,812,0,0,723
+51,IR-E-C-1371,Dr. B. R. Ambedkar National Institute of Technology,8536,3904,12440,8547,3701,192,2571,3028,0,2587,0,3012
+52,IR-E-C-1400,Indian Institute of Technology Jodhpur,2398,583,2981,1441,1478,62,384,1647,1119,0,7,905
+53,IR-E-C-30045,Sardar Vallabhbhai National Institute of Technology,1966,727,2693,600,2088,5,98,613,0,51,0,660
+54,IR-E-U-0202,Visvesvaraya Technological University,795,161,956,604,288,64,68,367,20,4,0,411
+55,IR-E-U-0473,Indraprastha Institute of Information Technology Delhi,2097,1398,3495,3463,32,0,1126,2369,444,19,49,2983
+56,IR-E-U-0017,Jawaharlal Nehru Technological University,446,67,513,133,377,3,139,112,149,63,36,3
+57,IR-E-U-0207,Koneru Lakshmaiah Education Foundation University,2510,466,2976,1350,1397,229,0,1338,640,279,0,419
+58,IR-E-C-24004,M. S. Ramaiah Institute of Technology,811,639,1450,1217,139,94,136,980,699,10,47,360
+59,IR-E-U-0560,Kalasalingam Academy of Research and Higher Education,1626,286,1912,944,943,25,78,995,1040,0,0,33
+60,IR-E-U-0146,National Institute of Technology Meghalaya,2553,1709,4262,2531,1724,7,3409,535,13,301,127,3503
+61,IR-E-U-0297,International Institute of Information Technology Bangalore,2852,559,3411,1514,1661,236,599,1672,328,0,5,1938
+62,IR-E-C-1336,Defence Institute of Advanced Technology,3557,1176,4733,3380,1316,37,195,1589,321,0,33,1430
+63,IR-E-C-26783,Thiagarajar College of Engineering,2970,1289,4259,2742,1204,313,641,904,1231,50,47,217
+64,IR-E-U-0273,Maulana Azad National Institute of Technology,258,93,351,13,332,6,16,0,0,0,16,0
+65,IR-E-C-26929,Indian Institute of Information Technology Guwahati,314,50,364,60,304,0,64,186,34,30,10,176
+66,IR-E-U-0223,National Institute of Technology Raipur,453,103,556,292,253,11,94,396,23,349,0,118
+67,IR-E-U-0263,Punjab Engineering College (Deemed To Be University),1896,1053,2949,2859,90,0,112,1372,6,0,17,1461
+68,IR-E-U-0237,College of Engineering(A),3100,1227,4327,3095,760,472,1226,422,854,0,0,794
+69,IR-E-C-16504,R. V. College of Engineering,2173,454,2627,1272,1350,5,348,1638,799,0,1,1186
+70,IR-E-C-37050,Veermata Jijabai Technological Institute,1904,744,2648,2573,75,0,658,1337,817,157,32,989
+71,IR-E-C-16626,Panjab University,4360,1760,6120,2981,3091,48,336,3677,0,79,12,3922
+72,IR-E-U-0213,B.M.S. College of Engineering,718,99,817,646,133,38,51,154,2,0,0,203
+73,IR-E-U-0163,Indian Institute of Food Processing Technology (IIFPT),2557,675,3232,1641,1587,4,524,1772,234,0,21,2041
+74,IR-E-C-49660,National Institute of Technology Agartala,956,170,1126,144,978,4,192,568,207,476,0,77
+75,IR-E-C-27400,Netaji Subhas University of Technology (NSUT),1307,709,2016,1770,243,3,189,1555,1744,0,0,0
+76,IR-E-U-0046,National Institute of Technology Goa,3593,1607,5200,5151,49,0,315,4388,358,77,5,4263
+77,IR-E-C-27089,Shri Mata Vaishno Devi University,1884,489,2373,1112,1108,153,107,405,62,225,0,225
+78,IR-E-C-37028,National Institute of Technology Jamshedpur,2269,1165,3434,2628,689,117,160,1077,209,0,0,1028
+79,IR-E-S-8931,Karunya Institute of Technology and Sciences,23,85,108,74,34,0,9,21,0,0,0,30
+80,IR-E-C-24163,Indian Institute of Information Technology Design & Manufacturing Jabalpur,36,5,41,8,33,0,3,25,9,8,0,11
+81,IR-E-C-26794,Kumaraguru College of Technology,962,158,1120,367,731,22,0,550,199,0,0,351
+82,IR-E-U-0064,Sri Krishna College of Engineering and Technology,865,481,1346,1194,30,122,87,495,495,0,0,87
+83,IR-E-U-0490,Chandigarh University,754,310,1064,754,310,0,150,481,372,0,0,259
+84,IR-E-U-0080,College of Engineering Trivandrum,469,141,610,359,251,0,41,81,10,48,3,61
+85,IR-E-U-0175,Guru Gobind Singh Indraprastha University,4502,708,5210,365,4781,64,1190,2342,0,374,0,3158
+86,IR-E-C-37013,Lovely Professional University,294,57,351,91,239,21,10,95,105,0,0,0
+87,IR-E-C-18254,University College of Engineering,1791,1514,3305,3291,14,0,1534,1083,173,55,12,2377
+88,IR-E-C-1360,Graphic Era University,885,604,1489,1480,3,6,207,975,773,0,3,406
+89,IR-E-U-0395,Coimbatore Institute of Technology,1561,1076,2637,2622,15,0,171,2429,886,338,146,1230
+90,IR-E-C-6202,Siddaganga Institute of Technology,1113,169,1282,24,1258,0,998,284,21,0,29,1232
+91,IR-E-U-0391,National Institute of Technology Patna,996,213,1209,953,230,26,126,356,79,78,26,299
+92,IR-E-C-41593,"	C.V. Raman Global University",2590,495,3085,407,2668,10,1624,415,492,550,39,958
+93,IR-E-U-0189,PES University,2916,850,3766,2100,1665,1,2085,1129,339,148,461,2266
+94,IR-E-U-0099,Vel Tech Rangarajan Dr. Sagunthala R & D Institute of Science and Technology,4333,565,4898,1833,3034,31,531,192,0,18,0,705
+95,IR-E-U-0382,Jaypee Institute of Information Technology,212,32,244,159,85,0,11,80,22,0,0,69
+96,IR-E-U-0105,"	University College of Engineering",3342,1341,4683,4563,102,18,715,3515,546,216,120,3348
+97,IR-E-C-6581,National Institute of Technology Hamirpur,4627,2361,6988,6926,62,0,289,6699,315,0,9,6664
+98,IR-E-C-19534,Bharati Vidyapeeth Deemed University College of Engineering,4795,2185,6980,6930,50,0,234,3182,484,165,0,2767
+99,IR-E-U-0043,Atal Bihari Vajpayee Indian Institute of Information Technology and Management,2791,1625,4416,4320,68,28,374,2399,1570,362,15,826

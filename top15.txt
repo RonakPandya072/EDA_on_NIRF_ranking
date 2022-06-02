@@ -1,0 +1,16 @@
+Name,S_name,Date_of_establishment
+Indian Institute of Technology Madras,IITM,1959-07-31
+Indian Institute of Technology Delhi,IITD,1961-01-27
+Indian Institute of Technology Bombay,IITB,1958-03-10
+Indian Institute of Technology Kanpur,IITK,1959-11-02
+Indian Institute of Technology Kharagpur,IITKGP,1951-08-18
+Indian Institute of Technology Roorkee,IITR,1847-11-25
+Indian Institute of Technology Guwahati,IITG,1994-09-01
+Indian Institute of Technology Hyderabad,IITHy,2008-08-30
+National Institute of Technology Tiruchirappalli,NITT,1964-08-14
+National Institute of Technology Karnataka,NITK,1960-08-06
+Indian Institute of Technology (Indian School of Mines),IIT-ISM,1926-12-09
+Vellore Institute of Technology,VIT,1984-07-05
+Indian Institute of Technology Indore,IITI,2009-02-17
+Indian Institute of Technology (Banaras Hindu University) Varanasi,IIT-BHU,1919-03-03
+Institute of Chemical Technology,ICT,1933-10-01
